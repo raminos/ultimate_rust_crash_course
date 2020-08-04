@@ -36,8 +36,8 @@
 - [x] Try binding the variables all at once on one line using a pattern (parenthesis and commas) -- can you figure out where "mut" goes?
   - [ ] Can you figure out the correct type annotation when you assign them all in one line?
     Hint: it will use the same sort of pattern as the variables and values.
-- [ ] Instead of changing missiles, use the value `missiles - ready` directly in the second `println!(...)`
+- [x] Instead of changing missiles, use the value `missiles - ready` directly in the second `println!(...)`
   - What does cargo say when you run your program?
-- [ ] Add another variable to your program *but don't use it*.
+- [x] Add another variable to your program *but don't use it*.
   - What does cargo say when you run your program?
-- [ ] Try modifying a constant in `main()` (for example, `READY_AMOUNT = 1`). What does the error look like?
+- [x] Try modifying a constant in `main()` (for example, `READY_AMOUNT = 1`). What does the error look like?
